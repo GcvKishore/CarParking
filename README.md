@@ -15,9 +15,13 @@ Features
 Automated Ticket Generation: 
 
 Efficiently generates parking tickets upon vehicle entry.
+
 Vehicle Entry and Exit Management: Tracks vehicles entering and exiting the parking lot.
+
 Fee Calculation: Calculates parking fees based on the duration of the vehicle's stay.
+
 Database Integration: Stores ticket and vehicle information for efficient management.
+
 Technologies Used
 Java: Core language used for backend development.
 Spring Boot: Framework for building the application.
