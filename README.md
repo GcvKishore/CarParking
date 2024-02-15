@@ -27,3 +27,21 @@ Technologies Used
 Java: Core language used for backend development.
 
 Spring Boot: Framework for building the application.
+
+# Installation
+
+Clone the Repository:
+
+https://github.com/GcvKishore/CarParking.git
+
+Open the Project in Visual Studio Code:
+
+Use the File menu or the terminal to open the project folder in Visual Studio Code.
+
+Run the Application:
+
+Use the terminal in Visual Studio Code to run the application:
+
+javac Main.java
+
+java Main.java
