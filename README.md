@@ -30,18 +30,18 @@ Spring Boot: Framework for building the application.
 
 # Installation
 
-Clone the Repository:
+Step 1 : Clone the Repository:
 
 https://github.com/GcvKishore/CarParking.git
 
-Open the Project in Visual Studio Code:
+Step 2: Open the Project in Visual Studio Code:
 
 Use the File menu or the terminal to open the project folder in Visual Studio Code.
 
 Run the Application:
 
-Use the terminal in Visual Studio Code to run the application:
+Step 3: Use the terminal in Visual Studio Code to run the application:
 
-javac Main.java
+Step 4 :javac Main.java
 
-java Main.java
+Step 5: java Main.java
